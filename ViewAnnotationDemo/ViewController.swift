@@ -81,10 +81,13 @@ class ViewController: UIViewController, MGLMapViewDelegate {
                     annotationView.layer.borderWidth = 2
                     annotationView.layer.cornerRadius = 20
                 } else {
-                    let imageView = OLImageView(image: OLImage(data: NSData(contentsOfFile: NSBundle.mainBundle().pathForResource("fire", ofType: "gif")!)!))
-                    annotationView.frame = CGRect(x: 0, y: 0, width: 80, height: 80)
-                    imageView.frame = annotationView.frame
-                    annotationView.addSubview(imageView)
+                    if let path = NSBundle.mainBundle().pathForResource("fire", ofType: "gif"),
+                       let data = NSData(contentsOfFile: path) {
+                        let imageView = OLImageView(image: OLImage(data: data))
+                        annotationView.frame = CGRect(x: 0, y: 0, width: 80, height: 80)
+                        imageView.frame = annotationView.frame
+                        annotationView.addSubview(imageView)
+                    }
                 }
             }
         }
