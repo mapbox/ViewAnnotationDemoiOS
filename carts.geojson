@@ -1,0 +1,2591 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Aybla Mediteranean Grill",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4041/4287248934_f4fbb2f324.jpg\"><br>Greek style Food Cart<br>Hours: Monday through Saturday, 10am-5pm<br>Phone: 503 490 3387<br><a href=\"http://www.foodcartsportland.com/2007/10/29/aybalaya-mediterranean/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676079,
+                    45.521416,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Boolkogi Korean BBQ",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4066/4501972372_1396d5a3c3.jpg\" style=\"width:244px\"><div>Korean BBQ tacos and plates</div><div>Open daily for lunch</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2010/04/11/boolkogi-korean-tacos/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676117,
+                    45.521343,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mr Taco",
+                "Description": "<IMG style=\"width:150px\" src=\"http://farm3.static.flickr.com/2568/4191351719_450054174c.jpg\"><BR>Mexican food cart<BR>Hours: Monday-Friday, 8am-2pm<BR>Phone: 503 935 4321<BR><BR><A href=\"http://www.foodcartsportland.com/2009/12/17/mr-taco/\" target=\"_blank\">More Information</A><BR>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676155,
+                    45.521278,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La Jarochita",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2717/4287248652_8de5e5ae2c.jpg\"><br>Mexican food cart<br>Hours: Monday - Friday, 7:30am-5pm<br>Phone: 503-421-9838<br><br><a href=\"http://www.foodcartsportland.com/2008/02/25/jarochita/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67614,
+                    45.521305,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Spoons",
+                "Description": "<IMG style=\"width:150px\" src=\"http://farm3.static.flickr.com/2501/3862860574_f8f8a750d4.jpg\"><BR>Soup food cart <BR>Hours: Mon-Fri 10:30AM-2:00PM<BR>Phone: 503 522 3576 <BR><BR><A href=\"http://www.foodcartsportland.com/2009/11/17/spoons/\" target=\"_blank\">More Information</A>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676163,
+                    45.521263,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thai Sky",
+                "Description": "<p><strong style=\"font-weight:normal\"><span style=\"font-weight:bold\"><span style=\"font-weight:bold\"><img style=\"width:150px\" src=\"http://foodcartsportland.com/wp-images/Downtown_5th_and_Oak/Thai_Sky/Thai_Sky.JPG\"></span><br></span></strong></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p><strong style=\"font-weight:normal\"><span style=\"font-weight:bold\"></span>Hours:</strong> Mon-Fri Lunch Hours, closes around 3PM<strong><span style=\"font-weight:bold\"></span><span style=\"font-weight:normal\"><span style=\"font-weight:bold\"></span><br>Phone:</span></strong> 503-750-5369</p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><p></p></p><a href=\"http://www.foodcartsportland.com/2007/10/17/thai-sky/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676186,
+                    45.521229,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Philly Cheese Steaks",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4027/4280023569_2eb82d921b_m.jpg\"><br>Philly Cheese Steak and Hamburger Food Cart<br>Hours: Monday - Friday, lunchtime<br></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676201,
+                    45.521175,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Julie's Food",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4030/4286508035_6a56df9878_m.jpg\"><br>Vietnamese food cart<br>Hours: Monday - Friday, lunchtime<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676231,
+                    45.521133,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Khob Khun Thai Food",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5010/5362172231_9a7337cdcb_d.jpg\" style=\"width:244px\"><div>Thai food. Open for lunch daily</div><div><a href=\"http://www.foodcartsportland.com/2011/01/20/khob-khun-thai-food/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676247,
+                    45.521095,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BrunchBox",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/03/brunch-bunch-224x300.jpg\"><br>Burgers!<br>Monday through Saturday, breakfast and lunch<br><br><a href=\"http://www.foodcartsportland.com/2009/03/14/the-brunch-bunch/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67627,
+                    45.521072,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Veli Thai Food",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2449/3857527789_a7022af15b.jpg\"><br>Thai food cart<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2007/08/31/veli-thai-food/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676315,
+                    45.520981,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Real Taste of India",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4008/4280093551_0e7be1d558.jpg\"><br>Indian food cart<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2007/08/31/real-taste-of-india/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676369,
+                    45.520905,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Saigon",
+                "Description": "Vietnamese food cart<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676094,
+                    45.521393,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tabor",
+                "Description": "<img style=\"width:245px\" src=\"http://farm4.static.flickr.com/3106/2910454487_ea17803a80.jpg\"><br>Czech food cart featuring the Schnitzelwich<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2007/09/24/tabor-czech-food/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676224,
+                    45.520794,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Swamp Shack",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/06/photo1-300x225.jpg\"><br>Cajun dishes from a food cart<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2009/06/25/the-swamp-shack/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676071,
+                    45.52076,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Give Pizza a Chance",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4011/4366096480_641cd2174b.jpg\" style=\"width:244px\"><div>Wonderful handmade pizza made with local ingredients.</div><div>Open daily for lunch</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2008/05/16/give-pizza-a-chance/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676003,
+                    45.520741,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "El Masry Egyptian",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/05/elmasry-300x225.jpg\"><br>Egyptian food including Gyros and Shwarma<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/05/20/el-masry-egyptian/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674713,
+                    45.519615,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tito's Burritos",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/04/photo7-300x225.jpg\" style=\"width:244px\"><div>Tacos and burritos</div><div>Open daily</div><div><a href=\"http://www.foodcartsportland.com/2009/04/27/titos-burritos/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674706,
+                    45.519646,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sonny Bowl",
+                "Description": "<img src=\"http://farm4.static.flickr.com/3551/3883336172_5204e04883.jpg\" style=\"width:244px\"><div>Vegan bowls with rice, beans and protein</div><div>Open daily for lunch</div><div><a href=\"http://www.foodcartsportland.com/2009/09/11/sonny-bowl/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674683,
+                    45.519695,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Built to Grill",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/08/built-300x225.jpg\"><br>Food cart specializing in Pastas and Italian sandwiches<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/08/23/built-to-grill/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674591,
+                    45.519894,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Asia Express",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674561,
+                    45.519932,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Beez Neez ",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2713/4033881014_e2504c069f.jpg\" style=\"width:244px\"><div>Great sausage cart even serving Reindeer sausage.</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2009/10/23/beez-neez-gourmet-sausages/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674522,
+                    45.520012,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "DC Vegetarian",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2431/3856123048_a294a3c749.jpg\" style=\"width:244px\"><div>Vegetarian sandwiches, soups and salads - vegan available.</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2009/08/25/dc-vegetarian/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6745,
+                    45.520039,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pho Le",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4067/4279760297_59ae13f216.jpg\" style=\"width:244px\"><div>Great Thai food, including traditional Pho</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2007/09/13/pho-le/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674477,
+                    45.520088,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Just Thai",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2594/3862071817_e65232ac6a.jpg\" style=\"width:244px\"><div>Thai cuisine including Phad Thai and other noodle dishes.</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2009/08/31/just-thai/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674461,
+                    45.520115,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Francisco Taqueria",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4036/4280814738_1a0c57c3f5.jpg\"><br>Mexican tacos, burritos and other fare<br>Monday through Friday, lunchtime<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674446,
+                    45.520164,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Viet Cuisine",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4004/4247415725_d04789ae58.jpg\"><br>Vietnamese cuisine<br><a href=\"http://www.foodcartsportland.com/2010/01/06/teris-tacos/\" target=\"_blank\"><br></a><a href=\"http://www.foodcartsportland.com/2010/06/09/viet-cuisine/\" target=\"_blank\">More Information</a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.673302,
+                    45.520443,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "A Taste of Greek",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4084/4960611624_21b09a0a57_d.jpg\" style=\"width:244px\"><div>Greek and Mediterranean delights</div><div>Open daily for lunch</div><div><a href=\"http://www.foodcartsportland.com/2010/09/09/a-taste-of-greek/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.673325,
+                    45.52039,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Big-Ass Sandwiches",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4022/4223617269_d4dca001eb.jpg\"><br>Specializes in a big sandwich with your choice of meat topped with fries and cheese sauce.<br>Weekdays, lunchtime; Late nights - Thursday, Friday and Saturday<br><br><a href=\"http://www.foodcartsportland.com/2009/12/29/big-a-sandwiches/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.663406,
+                    45.520847,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria El Canario",
+                "Description": "<img style=\"width:245px\" src=\"http://farm4.static.flickr.com/3450/4001762022_e86c3880c7.jpg\"><br>Mexican cart for late night tacos and burritos<br>Friday, Saturday nights<br><br><a href=\"http://www.foodcartsportland.com/2009/11/20/taqueria-el-canario/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674286,
+                    45.522598,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fuego Burritos",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/05/fuego2-225x300.jpg\"><br>Chicken or vegetarian burritos done right<br>Weekdays, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/05/27/fuego-burritos/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.678741,
+                    45.518421,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "No Fish, Go Fish",
+                "Description": "<img style=\"width:245px\" src=\"http://farm4.static.flickr.com/3441/3857536661_f485d9ea16.jpg\"><br>Specialty and seasonal soups along with small \"no fish\" fish shaped sandwiches.<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2009/09/02/no-fish-go-fish/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.678192,
+                    45.518299,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Honkin' Huge Burritos",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4045/4266754218_129c533a77_o.jpg\"><br>Vegetarian burritos that are truly huge, even the small one.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2008/11/21/honkin-huge-burritos/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.679718,
+                    45.51873,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Philly CheeseSteaks & Burgers",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2536/3923249404_c9ec6b3c40.jpg\"><br>Cheese-Steaks and Burgers along with the wry wit of Ben.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/08/13/philly-cheesesteaks-and-burgers/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67939,
+                    45.518375,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "BBQ Fusion",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2536/3952202004_de0dfb8de9.jpg\"><br>BBQ Cart - pulled pork sandwiches and ribs<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/10/12/bbq-fusion/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.682106,
+                    45.520786,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nong's Khao Man Gai",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2548/4099782210_dc8473e81a.jpg\"><br>Specializing in a single dish - Khao Man Gai, a rice dish with chicken and spicy sauce.<br>Monday through Saturday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2009/05/09/coming-soon-nongs-khao-man-gai/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.682037,
+                    45.520767,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Savor Soup House",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/01/savor-soup-final-224x300.jpg\"><br>Specializing in artisan soups and sandwiches.<br>Monday through Friday, weekdays<br><br><a href=\"http://www.foodcartsportland.com/2009/01/27/savor-soup-house/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681862,
+                    45.520721,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cool Harry's Frozen Yogurt",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4016/4712334268_a4322e439c.jpg\" style=\"width:244px\"></div><div dir=\"ltr\">Locally made organic frozen yogurt in unique flavors.</div><div dir=\"ltr\">Open Daily</div><div dir=\"ltr\"><br>&nbsp;</div><div dir=\"ltr\"><a href=\"http://www.foodcartsportland.com/2010/06/20/cool-harrys/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681808,
+                    45.52071,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Addy's Sandwich Bar",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/08/photo-300x225.jpg\" style=\"width:244px\"><div>Great little artisan sandwich shop.&nbsp;</div><div>Open daily for lunch</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2009/08/14/addys-sandwich-bar/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681755,
+                    45.52087,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Ugarit Mediterranean",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2708/4056336245_44cc9e243d.jpg\"><br>Specializing in traditional Mediterranean style food.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/11/02/ugarit-mediterranean-meals/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681732,
+                    45.520935,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roll Plus Sushi",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68074,
+                    45.520618,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sawasdee Thai",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2007/09/dsc_0513-300x229.jpg\" style=\"width:244px\"><div>Great Thai cuisine.</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2009/03/09/sawasdee-thai/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681053,
+                    45.520512,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Samurai",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681107,
+                    45.520531,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Whole Bowl",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2759/4464181328_0278ceecbb.jpg\" style=\"width:244px\"><br><a href=\"http://www.foodcartsportland.com/2008/03/21/the-whole-bowl/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681274,
+                    45.520569,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mai Pho Vietnamese",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/03/mai-pho-3-300x224.jpg\"><br>Vietnamese cart with Pho and noodle dishes<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/03/05/mai-pho-vietnamese/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681335,
+                    45.520584,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Aybla Mediterranean",
+                "Description": "Greek specialties including Gyros and other items.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2007/10/29/aybalaya-mediterranean/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681412,
+                    45.520603,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tito's 2",
+                "Description": "Mexican tacos and burritos.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/04/27/titos-burritos/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68148,
+                    45.520626,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Altengartz Sausages",
+                "Description": "<div><img src=\"http://foodcartsportland.com/wp-images/2007/09/photo-300x225.jpg\" style=\"width:237px\"></div> <div>German Bratwurst and other sausages</div> <div>Open daily for lunch and late night</div> <div><a href=\"http://www.foodcartsportland.com/2009/04/19/altengartz-german-bratwurst/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681595,
+                    45.52066,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Number #1 Bento",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681664,
+                    45.520695,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Eurodish",
+                "Description": "<IMG style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2007/09/eurodish-300x225.jpg\"><BR>Specializing in Eastern European style home cooking<BR>Monday through Friday, lunchtime to 6pm<BR><BR><A href=\"http://www.foodcartsportland.com/2009/07/09/eurodish/\" target=\"_blank\">More Information</A><BR>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681595,
+                    45.520851,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "I Love Thai Food",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681633,
+                    45.520748,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Huong's Vietnamese",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2008/10/huongs-300x224.jpg\"><br>Vietnamese food cart<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2008/12/05/huongs/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681557,
+                    45.520924,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bombay Chaat House",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4022/4307648401_b9901da3b9.jpg\"><br>Indian food<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/04/09/bombay-chaat-house/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.684242,
+                    45.519749,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Boonrod Thai",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/PSU_Carts/Boonrod_Cart.JPG\"><br>Thai cuisine<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2008/01/21/boonrod-thai/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681816,
+                    45.509964,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "New Taste of India",
+                "Description": "Second location for this cart company. Indian food.<br><br><a href=\"http://www.foodcartsportland.com/2007/08/31/new-taste-of-india/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681343,
+                    45.509773,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria Villanueva",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/PSU_Carts/villanueva.JPG\"><br>Mexican food including tacos and burritos<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2009/03/15/taqueria-villanueva-2/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681351,
+                    45.509758,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Thai Pasta",
+                "Description": "Thai food<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2008/01/28/thai-pasta/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681366,
+                    45.509739,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rice and Noodle",
+                "Description": "<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681389,
+                    45.509693,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Inter selects",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/03/inter-selects-300x224.jpg\"><br>A food cart specializing in Thai cuisine<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/03/16/inter-selects-a-thai-cart/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681412,
+                    45.509647,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fernando's Mundo Fiesta",
+                "Description": "<img style=\"width:245px\" src=\"http://farm5.static.flickr.com/4018/4280121411_f97eae43df.jpg\"><br>Large menu including specialty burgers, wraps and other sandwiches.<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2010/01/29/fernandos-mundo-fiesta/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681427,
+                    45.509613,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Original Chopollo's",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2426/4070708032_b473ac1b56.jpg\"><br>Mexican food cart<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/11/11/original-chopollos-mexican-food/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681442,
+                    45.509579,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Portland Soup Company",
+                "Description": "<IMG style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/07/PortlandSoupComp-300x225.jpg\"><BR>Specializing in artisan soups, sandwiches and salads.<BR>Monday through Friday, lunchtime<BR><BR><A href=\"http://www.foodcartsportland.com/2009/07/17/portland-soup-company/\" target=\"_blank\">More Information</A><BR>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68148,
+                    45.509541,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Vietnamese Banh Mi",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/06/banh-mi-1-300x135.jpg\"><br>A cart specializing in banh mi sandwiches.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/06/12/vietnamese-banh-mi-sandwiches/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681488,
+                    45.509506,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "dosirak",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2435/3951428659_026ae36803.jpg\"><br>Specializing in Korean bento.<br>Monday through Friday, lunchtime<br><a href=\"http://www.foodcartsportland.com/2009/10/05/dosirak/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681526,
+                    45.509441,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Frying Scotsman",
+                "Description": "<img style=\"width:245px\" src=\"http://farm4.static.flickr.com/3534/3968011554_2d8af54655.jpg\"><br>Traditional Scottish fish and chips.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/10/07/the-frying-scotsman-fish-and-chips/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680717,
+                    45.520664,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Fried Onion",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2525/4015294271_be05482be7.jpg\"><br>Hot dogs and sausages from a true wurst aficionado.<br>Monday through Friday, lunchtime<br><br><a href=\"http://www.foodcartsportland.com/2009/10/16/the-fried-onion/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.662651,
+                    45.518044,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Flavour Spot",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/N_Portland/FlavourSpot.JPG\"><br>Specializing in waffle sandwiches both savory and sweet. <br>Mon-Thurs - 9am-4pm; Friday/Saturday - 9am-8pm; Sunday - 9am-3pm<br><a href=\"http://www.foodcartsportland.com/2007/10/23/flavour-spot/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675369,
+                    45.547665,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dogfeather's Coffee",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2543/3986728549_b1fdd77be6.jpg\"><br>Coffee, espresso and fruit juices<br>Tuesday through Sunday, 6am-2pm<br><a href=\"http://www.foodcartsportland.com/2009/10/25/dogfeathers-coffee-and-juice/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676003,
+                    45.554565,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Big Egg",
+                "Description": "<img style=\"width:245px\" src=\"http://farm4.static.flickr.com/3534/3943053880_03a782415f.jpg\"><br>Specializing in breakfast sandwiches and wraps - one of Portland's best carts<br>Wed-Fri - 8am-2pm; Sat/Sun - 9am-2pm<br><a href=\"http://www.foodcartsportland.com/2009/09/21/the-big-egg/\" target=\"_blank\"><br>More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675606,
+                    45.554295,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La Chiquita",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/La_Chiquita/PICT0301.jpg\"><br>Mexican tacos and burritos<br>Monday through Saturday 11am-5pm<br><br><a href=\"http://www.foodcartsportland.com/2007/09/23/la-chuquita/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.682892,
+                    45.562542,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Native Bowl",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2791/4062865524_3e2fc8484c.jpg\"><br>Vegan rice bowls, sandwiches and sweets.<br>Wednesday through Sunday open at 11am<br><br><a href=\"http://www.foodcartsportland.com/2009/11/06/native-bowl/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675995,
+                    45.554337,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pyro Pizza",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2627/4107873590_9529bf47fd.jpg\"><br>Wood Fired oven pizza and handmade sodas.<br>Tues-Thurs: 6pm-12am; Friday/Saturday: 6pm-3am<br><br><a href=\"http://www.foodcartsportland.com/2009/11/16/pyro-pizza/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653542,
+                    45.512512,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bubba Bernies",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4038/4325752799_024a5c5f1d.jpg\" style=\"width:244px\"></div><div dir=\"ltr\">Cajun food including jamalaya and po'boy sandwiches.</div><div dir=\"ltr\">Open daily for lunch, dinner and late night on the weekends.</div><div dir=\"ltr\"><br>&nbsp;</div><div dir=\"ltr\"><a href=\"http://www.foodcartsportland.com/2010/02/28/bubba-bernies/\" target=\"_blank\">More information.</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653397,
+                    45.512512,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "El Brasero",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2578/4153322168_492bc973fb.jpg\"><br>Mexican tacos and burritos<br>Open most days for lunch and into late night on the weekends.<br><br><a href=\"http://www.foodcartsportland.com/2009/12/02/el-brasero/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653236,
+                    45.512512,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Whiffies Fried Pies",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/05/whiffies-300x225.jpg\"><br>Handmade savory and sweet handpies.<br>Tues-Sat: noon-3am<br><br><a href=\"http://www.foodcartsportland.com/2009/05/22/whiffies-pie-cart/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653229,
+                    45.512341,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Perierra Creperie",
+                "Description": "<img style=\"width:245px\" src=\"http://foodcartsportland.com/wp-images/2009/05/3495685976_14e5e0f0d4_b-300x225.jpg\"><br>French inspired hand made savory and sweet crepes<br>Tues-Sat: 8am-3am; Sunday 9am-3pm<br><br><a href=\"http://www.foodcartsportland.com/2009/05/10/perierra-creperie/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65345,
+                    45.512367,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Potato Champion",
+                "Description": "<img style=\"width:245px\" src=\"http://farm3.static.flickr.com/2799/4280060447_51f95d8b32.jpg\"><br>Late night Belgian fries and poutine.<br>Tues-Sun: 6pm-3am<br><br><a href=\"http://www.foodcartsportland.com/2008/10/19/potato-champion/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653534,
+                    45.512417,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rockabillies",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4063/4672195888_7057e9cfa2.jpg\" style=\"width:244px\"><div>Sandwich cart serving up grilled and non grilled specialties along with fried favorites like cheese curds. Open late night.</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2010/06/14/rockabillies/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.618156,
+                    45.516232,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PFE Sushi and Chinese Food",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4024/4640669696_60fc98f0fa.jpg\" style=\"width:244px\"><div>Fresh sushi made while you wait along with chinese dishes.</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2010/05/26/pfe-sushi-and-chinese-food/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.673889,
+                    45.520054,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bulkogi Korean BBQ",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2778/4402158527_4a4af79e5b.jpg\" style=\"width:244px\"><div>Korean inspired tacos, burritos, ramen and udon dishes.</div><div>Open daily for lunch</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2010/03/04/bulkogi-korean-bbq/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676392,
+                    45.520863,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pastrami on Rye",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4082/4751535433_d4f827a804.jpg\" style=\"width:237px\"> <div>&nbsp;</div> <div>Pastrami and reuben sandwiches.</div> <div>Open for lunch weekdays.</div> <p><a href=\"http://www.foodcartsportland.com/2010/07/02/pastrami-on-rye/\" target=\"_blank\">More Information</a></p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68132,
+                    45.509811,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Poompui Thai",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/04/poopmui-1-199x300.jpg\"><div>Thai cuisine</div><div>Open daily for lunch</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2009/04/29/poompui-thai/\" target=\"_blank\">More information</a>.</div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681297,
+                    45.509842,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Scoop",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4093/4877200433_7ed5b3017a_d.jpg\" style=\"width:244px\">Organic Ice Cream <div><br>&nbsp;</div> <div><a href=\"http://www.foodcartsportland.com/2010/11/16/scoop/\" target=\"_blank\">More information and hours</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.613945,
+                    45.504662,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "PDX671",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4073/4865256888_583fe2f3c2_d.jpg\" style=\"width:244px\"></div><div dir=\"ltr\">Guam and Pacific NW influenced food.</div><div dir=\"ltr\">Open daily for lunch and dinner hours</div><div dir=\"ltr\"><br>&nbsp;</div><div dir=\"ltr\"><a href=\"http://www.foodcartsportland.com/2010/08/05/pdx671/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.609322,
+                    45.540577,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "FlavourSpot",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.691147,
+                    45.576862,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bruce Lee's Kitchen",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4045/4238953859_f54518dddb.jpg\" style=\"width:245px\"><br>Thai<br><a href=\"http://www.foodcartsportland.com/2010/01/03/bruce-lees-kitchen/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653168,
+                    45.467484,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Zenbu",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4015/4651223744_1e9bc0c3d2.jpg\" style=\"width:244px\"><div>Japanese sushi and other dishes</div><div>Open daily for lunch</div><div><a href=\"http://www.foodcartsportland.com/2010/06/03/zenbu/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653069,
+                    45.4669,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Namu Korean BBQ",
+                "Description": "<img src=\"http://farm4.static.flickr.com/3322/4572421101_bb9f622838.jpg\" style=\"width:244px\"><div>Great pulled pork sandwiches and other BBQ items with Korean influence</div><div>Open daily for lunch and dinner</div><div><a href=\"http://www.foodcartsportland.com/2010/06/17/namu-killer-korean-bbq/\" target=\"_blank\">More information here</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.617905,
+                    45.516518,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Da-Pressed",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4113/4960027791_647ed8c709_d.jpg\" style=\"width:245px\"><br>Coffee cart<br><a href=\"http://www.foodcartsportland.com/2010/09/23/da-pressed/\" target=\"_blank\">More Info</a><br></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.617905,
+                    45.516468,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "We be Wieners",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4084/4960022047_9cd738e45f_d.jpg\" style=\"width:244px\"><br> <br> Hot dogs and chili dogs and sandwiches</div><div dir=\"ltr\">Open Daily including weekends</div><div dir=\"ltr\"><br>&nbsp;</div><div dir=\"ltr\"><a href=\"http://www.foodcartsportland.com/2010/10/14/we-be-weiners/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681862,
+                    45.511414,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "El Gallo Taqueria",
+                "Description": "<img src=\"http://farm4.static.flickr.com/3492/4062885574_b370cb9073.jpg\" style=\"width:244px\"><div>New Mexican inspired tacos and other dishes.</div><div>Open T-Sat, 12-7pm</div><div><a href=\"http://www.foodcartsportland.com/2009/11/05/el-gallo-taqueria/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.612869,
+                    45.479019,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pepper Box",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4079/4895659139_67c4551e20_d.jpg\" style=\"width:244px\"><div>Breakfast tacos and other New Mexico inspired foods</div><div>Open W-F, 8am-2pm; Sat/Sun, 9am-2pm</div><div><a href=\"http://www.foodcartsportland.com/2010/08/16/pepper-box/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66201,
+                    45.525593,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grilled Cheese Grill",
+                "Description": "<img src=\"http://farm4.static.flickr.com/3655/3495659818_392d401f3e.jpg\" style=\"width:244px\"><div>Signature grilled cheese sandwiches</div><div>Open Tues-Thurs, 11:30-9; Friday/Saturday, 11:30-late, Sunday open</div><div><a href=\"http://www.foodcartsportland.com/2009/05/03/grilled-cheese-grill/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.654945,
+                    45.559166,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fuego de Lotus",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4019/4325749739_022a778c7c.jpg\" style=\"width:244px\"><div>Venezuelan inspired fare</div><div>Open Tues-Fri, 11am-3pm; W-Fri, 6-9pm; Sat 2pm-late</div><div><a href=\"http://www.foodcartsportland.com/2010/02/08/fuego-de-lotus/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.639641,
+                    45.52179,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Dump Truck",
+                "Description": "<img src=\"http://farm2.static.flickr.com/1024/4723590916_8316cc5035.jpg\" style=\"width:244px\"><div>Handmade Asian dumplings</div><div>Open M-F, 11am-4pm</div><div><a href=\"http://www.foodcartsportland.com/2010/06/22/the-dump-truck/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.682228,
+                    45.520824,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wolf and Bear's",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2447/3906978624_23bae57a31.jpg\" style=\"width:244px\"><div>Israeli inspired food like falafel and hummus</div><div>Open W/Th 12-8pm; F/S 12-10pm</div><div><a href=\"http://www.foodcartsportland.com/2009/09/10/wolf-bears/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675804,
+                    45.551338,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sausage Shack",
+                "Description": "<div dir=\"ltr\">Hot dogs, sausages and burgers</div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67437,
+                    45.520199,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chicken Run",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm5.static.flickr.com/4085/5091581223_83e2c34391_d.jpg\" style=\"width:244px\"><br>Thai</div><div dir=\"ltr\"><a href=\"http://www.foodcartsportland.com/2010/12/19/chicken-run/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611168,
+                    45.504478,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Southern Belles",
+                "Description": "<img src=\"http://farm9.staticflickr.com/8212/8342947228_f2cbed4f1f_d.jpg\" style=\"width:245px\"><br> <div>Southern Comfort Food<br></div> <div>Open Daily for lunch and dinner. Closed Sunday</div> <div><br>&nbsp;</div> <div><a href=\"http://www.foodcartsportland.com/2013/01/03/southern-belles/\" target=\"_blank\">More information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.751389,
+                    45.588802,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Dog House",
+                "Description": "<div dir=\"ltr\"><img src=\"http://farm6.static.flickr.com/5107/5689963325_aa891d498e_d.jpg\" style=\"width:245px\"><br>Hot Dogs and tater tots<br><a href=\"http://www.foodcartsportland.com/2011/05/05/the-dog-house-pdx/\" target=\"_blank\">More Information</a><br></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.617874,
+                    45.516315,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Burgatroyd",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4064/5163151360_eee5f023f7_d.jpg\" style=\"width:244px\"><div>Handmade burgers and cheeseburgers for $4.&nbsp;</div><div><br>&nbsp;</div><div><a href=\"http://www.foodcartsportland.com/2011/02/25/burgatroyd/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.663437,
+                    45.520939,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taste of Korea",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674637,
+                    45.519798,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "El Cubo de Cuba",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4149/5201771992_ea9305a632_d.jpg\" style=\"width:244px\"><div>Cuban Cuisine</div><div>Open daily lunch and dinner</div><div><a href=\"http://www.foodcartsportland.com/2010/11/23/el-cubo-de-cuba/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68161,
+                    45.520798,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "808 Grinds",
+                "Description": "<img src=\"http://farm2.static.flickr.com/1326/5141780046_42f6ab48a1_d.jpg\" style=\"width:244px\"><div>Hawaiian food and sushi</div><div>Open daily for lunch</div><div><a href=\"http://www.foodcartsportland.com/2010/11/04/808-grinds/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680519,
+                    45.521069,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Emame's Ethiopian",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5045/5219648837_4e5d68592e_d.jpg\" style=\"width:244px\"> <div>Ethiopian Food</div> <div>Open daily for lunch</div> <div><a href=\"http://www.foodcartsportland.com/2010/12/01/emames-ethiopian-cuisine/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680542,
+                    45.521011,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pizza Contadino",
+                "Description": "<A href=\"http://pizzacontadino.blogspot.com/\" target=\"_blank\">http://pizzacontadino.blogspot.com/</A>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.751534,
+                    45.588837,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "A Little Bit of Smoke",
+                "Description": "<div><img src=\"http://farm6.static.flickr.com/5173/5534989678_62a1cd8aff_d.jpg\" style=\"width:237px\"></div> <div>North Carolina BBQ sandwiches and sides</div> <div>Open Weekdays, lunchtime</div> <div><a href=\"http://www.foodcartsportland.com/2011/03/18/a-little-bit-of-smoke/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680687,
+                    45.520733,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rotissol and Greens",
+                "Description": "<div><img src=\"http://farm6.static.flickr.com/5254/5447231488_e581ccda8a_d.jpg\" style=\"width:237px\"></div> <div>Fresh sandwiches and salads made daily</div> <div><strong>Hours: </strong>M-F, 11-4</div> <div><a href=\"http://www.foodcartsportland.com/2011/02/15/rotissol-and-greens/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680649,
+                    45.520798,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Island Grill",
+                "Description": "Hawaiian plate lunch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681229,
+                    45.520561,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Weenies From Another World",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5206/5724489692_643260efdf_d.jpg\" style=\"width:244px\"><div>Hot dogs and Hamburgers</div><div>Open daily for lunch and on Saturdays</div><div><a href=\"http://www.foodcartsportland.com/2011/05/16/weenies-from-another-world/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558563,
+                    45.519131,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria Los Arcos",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4010/4467776485_cddc231f9b.jpg\" style=\"width:244px\"><div>Mexican food</div><div>Open daily for lunch</div><div><a href=\"http://www.foodcartsportland.com/2010/04/29/taqueria-los-arcos/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558563,
+                    45.519211,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria Antojitos Yucatecos",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2730/4467781533_48f74ac7eb.jpg\" style=\"width:244px\"><div>Yucatan style Mexican fare</div><div>Open daily and weekends for lunch</div><div><a href=\"http://www.foodcartsportland.com/2010/03/30/taqueria-antojitos-yucatecos/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558792,
+                    45.519287,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shalimar Cafe",
+                "Description": "<img src=\"http://www.foodcartsportland.com/wp-content/uploads/2010/03/Shalimar-Cafe-300x225.jpg\"><img src=\"http://www.foodcartsportland.com/wp-content/uploads/2010/03/Shalimar-Cafe-300x225.jpg\" style=\"width:244px\"><div>Indian food from a cart</div><div>Open daily and weekends for lunch</div><div><a href=\"http://www.foodcartsportland.com/2010/04/01/shalimar-cafe/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558708,
+                    45.519287,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sheish Kabob",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681419,
+                    45.521194,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bangkok Duck and Chicken",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681442,
+                    45.52116,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Touchdown's BBQ",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681465,
+                    45.521118,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "E-San Thai",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681534,
+                    45.520969,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria El Rodeo",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681572,
+                    45.520885,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cheesesteak Nirvana",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6085/6033356639_b8fe17c670_d.jpg\" style=\"width:244px\"><div dir=\"ltr\"></div><div>Traditional Philly Cheesesteaks</div><div>Open daily and weekends</div><div><a href=\"http://www.foodcartsportland.com/2011/08/13/cheesesteak-nirvana/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579231,
+                    45.463871,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "London Pasty Co",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5279/5890793539_cd56accb01_d.jpg\" style=\"width:244px\"><div>Traditional British Pasties</div><div>Open M-S, 11am-5 or 6pm</div><div><a href=\"http://www.foodcartsportland.com/2011/07/06/london-pasty-company/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579239,
+                    45.46368,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Blazin' Grill",
+                "Description": "Hot Dogs and Sausages"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579369,
+                    45.463966,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cartlandia Food Pod",
+                "Description": "<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579498,
+                    45.463589,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Southwestern Pizza Company",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2459/4053973133_87b62aaa49.jpg\" style=\"width:244px\"><div>Pizza made on a tortilla</div><div>Open daily for lunch and dinner</div><div><a href=\"http://www.foodcartsportland.com/2011/06/21/southwestern-pizza-company/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611481,
+                    45.504593,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "A la Carts Food Pavillion",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611313,
+                    45.504547,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Jazzy's Old Fashioned BBQ",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5130/5248166434_2c88394dbf_d.jpg\" style=\"width:244px\"><div>Traditional BBQ</div><div>Open daily</div><div><a href=\"http://www.foodcartsportland.com/2010/12/11/jazzys-old-fashioned-barbeque/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611176,
+                    45.504662,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria Los Gorditos",
+                "Description": "<img src=\"http://foodcartsportland.com/wp-images/2009/03/los-gorditos-3-300x224.jpg\" style=\"width:244px\"><div>Vegetarian and vegan Mexican food</div><div>Open daily</div><div><a href=\"http://www.foodcartsportland.com/2009/03/19/taqueria-los-gorditos/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611618,
+                    45.505516,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "7 Hills Turkish",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.613358,
+                    45.505474,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hog Time",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6133/5939610801_55887e67c7_d.jpg\" style=\"width:244px\"><div>Pork Sandwiches and wraps</div><div>Open daily for lunch</div><div><a href=\"http://www.foodcartsportland.com/2011/07/15/hog-time/\" target=\"_blank\">More Information</a></div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674461,
+                    45.519543,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Istanbul Delight",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6002/5974034447_ca2397008e_d.jpg\" style=\"width:245px\"><br>Turkish delights<br>Open for lunch and on weekends<br><a href=\"http://www.foodcartsportland.com/2011/07/25/istanbul-delight/\" target=\"_blank\">More information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.695465,
+                    45.562614,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Koi Fusion",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6162/6264693053_6ca188efb6.jpg\" style=\"width:245px\"><br>Korean Fusion Tacos<br>Open Daily lunch to 8:30pm<br><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67588,
+                    45.554287,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "MEET",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6017/6207876662_d438b63d5d_d.jpg\" style=\"width:245px\"><br>Featuring brisket, St. Louis Ribs and more<br>Open Wed-Sun, 10-8pm<br><a href=\"http://www.foodcartsportland.com/2011/10/07/meet/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675774,
+                    45.554291,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Euro Trash 2",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6120/6281630253_913a676da6_d.jpg\" style=\"width:245px\"><br>Spanish and Portuguese Influenced food<br>Open daily 10-8pm<br><a href=\"http://www.foodcartsportland.com/2011/10/25/eurotrash-2/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681358,
+                    45.521313,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Rolling Stoves Gimme Sandwich",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69545,
+                    45.562454,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Miss Kate's Southern Kitchen",
+                "Description": "Southern Food<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.676003,
+                    45.55452,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Moctezuma Bros Southern Mexican",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7033/6482725895_baeb25e53a_d.jpg\" style=\"width:245px\"><br>Mexican Truck<br>Open lunchtime daily<br><a href=\"http://www.foodcartsportland.com/2011/08/01/moctezuma-bros-southern-mexican-cuisine/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.642143,
+                    45.559319,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Philly's Best",
+                "Description": "Philly Cheesesteaks and more<br>Open daily for breakfast, lunch and dinner<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675797,
+                    45.548229,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Che Cafe",
+                "Description": "<img src=\"http://farm3.static.flickr.com/2802/4062208289_94f9504be7.jpg\" style=\"width:245px\"><br>Burgers, sandwiches, soups and salads<br>Open Mon-Sat, 11am-7pm<br><a href=\"http://www.foodcartsportland.com/2009/11/03/che-cafe/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.742249,
+                    45.587704,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Solar Waffle Works",
+                "Description": "<img src=\"http://www.foodcartsportland.com/wp-content/uploads/2010/03/solar-waffles-1.jpg\" style=\"width:245px\"><br>Waffles and more<br><a href=\"http://www.foodcartsportland.com/2010/03/27/solar-waffle-works/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.666473,
+                    45.538364,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La Cocina De Chepe",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558861,
+                    45.519173,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Happy Espresso",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7002/6494271131_473fda31af_d.jpg\" style=\"width:245px\"><br>Espresso drinks and more<br><a href=\"http://www.foodcartsportland.com/2011/08/01/happy-espresso/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558868,
+                    45.519287,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Philippine Cuisine",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7152/6715383915_9440a6dc3d_d.jpg\" style=\"width:245px\"><br>Open every day but Thursday 11-8<br><a href=\"http://www.foodcartsportland.com/2011/08/01/philippine-cuisine/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.558868,
+                    45.51923,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Roshambo",
+                "Description": "<div dir=\"ltr\"></div><img src=\"http://farm8.staticflickr.com/7147/6696375601_7ae523e825_d.jpg\" style=\"width:245px\"><br>Indian fare<br>Open daily for lunch and dinner except Monday<br><a href=\"http://www.foodcartsportland.com/2012/01/17/roshambo/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611534,
+                    45.50819,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Herb's Mac and Cheese",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6081/6159898864_60f0a3e830_d.jpg\" style=\"width:245px\"><br>Mac and Cheese and more<br>Open Wed-Sun, 12-8pm<br><a href=\"http://www.foodcartsportland.com/2011/09/21/herbs-mac-cheese/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.631935,
+                    45.505093,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "EuroTrash Food Cart",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4091/5030834489_51335bc094_d.jpg\" style=\"width:245px\"><br>Inspired by Spanish and Portuguese cuisine<br>Open daily<br><a href=\"http://www.foodcartsportland.com/2010/09/29/euro-trash/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.617889,
+                    45.516434,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Viking Soul Food",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4103/5132633969_87679e8177_d.jpg\" style=\"width:245px\"><br>Swedish dishes<br>Open Tues-Sat, 11-7<br><a href=\"http://www.foodcartsportland.com/2010/11/01/viking-soul-food/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.618187,
+                    45.516483,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Adaddin's Castle ",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7027/6502399119_c345b17fdb_d.jpg\" style=\"width:245px\"><br>Iraqi cuisine<br>Open Mon-Thurs, 11-9 and weekends, 11-10<br><a href=\"http://www.foodcartsportland.com/2011/12/13/aladdins-castle-cafe-2/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611481,
+                    45.504711,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Burger Guild",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6020/5998216566_475323d876_d.jpg\" style=\"width:245px\"><br>Stuffed burgers<br>Open Tues-Sat, 12-9pm<br><a href=\"http://www.foodcartsportland.com/2011/08/01/the-burger-guild/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611382,
+                    45.504436,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "La Arepa",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7008/6482890347_02e6d85877_d.jpg\" style=\"width:245px\"><br>Venezuelan food<br><a href=\"http://www.foodcartsportland.com/2011/12/09/la-arepa-venezuelan/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611481,
+                    45.504528,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Azul Tequila Mexican Taqueria",
+                "Description": "<img src=\"http://farm5.static.flickr.com/4119/4960616578_e3f58a8203_d.jpg\" style=\"width:245px\"><br>Open daily 10-9<br><a href=\"http://www.foodcartsportland.com/2010/09/05/azul-tequila-mexican-taqueria/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61116,
+                    45.504585,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wy'East Pizza",
+                "Description": "<div dir=\"ltr\"></div><img src=\"http://farm3.static.flickr.com/2758/4144946927_b23bcb42d0.jpg\" style=\"width:245px\"><br>Handmade pizza<br>Open end of week and weekends.<br><a href=\"http://www.foodcartsportland.com/2009/11/30/wyeast-pizza/\" target=\"_blank\">More Information</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.611565,
+                    45.499332,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sanjai's Teriyaki",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7034/6496527237_b8c5e41a9e_d.jpg\" style=\"width:245px\"><br>Teriyaki and Yakisoba<br>Open daily<br><a href=\"http://www.foodcartsportland.com/2011/12/11/sanjais-teriyaki/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.608643,
+                    45.495705,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Flyin' Hawaiian",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7147/6685133979_d97b91dc6d_d.jpg\" style=\"width:245px\"><br>Hawaiian food from a cart<br>Open daily lunch and dinner<br><a href=\"http://www.foodcartsportland.com/2012/01/12/flyin-hawaiian/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.608498,
+                    45.49564,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "El Sultan",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5054/5534072912_14c2d97e06_d.jpg\" style=\"width:245px\"><br>Mexican and Greek food<br>Open daily<br><a href=\"http://www.foodcartsportland.com/2011/03/17/el-sultan/\" target=\"_blank\">more info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.608849,
+                    45.49585,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yolk",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6233/6282241098_246cb0b734_d.jpg\" style=\"width:245px\"><br>Breakfast food cart<br>Open daily fro breakfast including weekends<br><a href=\"http://www.foodcartsportland.com/2011/10/28/yolk/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.612923,
+                    45.479023,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rock House Grill",
+                "Description": "<div dir=\"ltr\"></div><img src=\"http://farm7.static.flickr.com/6214/6326244326_28bbb5da35_d.jpg\" style=\"width:245px\"><br>Full service grill and restaurant<br>Open daily<br><a href=\"http://www.foodcartsportland.com/2011/11/12/the-rock-house-grill/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579239,
+                    45.464119,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cake on a Hot Tin Roof",
+                "Description": "<div dir=\"ltr\"></div><img src=\"http://farm8.staticflickr.com/7166/6642068449_a78fd370f7_d.jpg\" style=\"width:245px\"><br>Dessert cart<br>Open daily<br><a href=\"http://www.foodcartsportland.com/2012/01/06/cake-on-a-hot-tin-roof/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579369,
+                    45.464077,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "GF Chef",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579559,
+                    45.463902,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lonchera Brother Express",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7010/6636222879_522cbacc80_d.jpg\" style=\"width:245px\"><br>Mexican Food Truck<br>Open daily lunch and dinner <br><a href=\"http://www.foodcartsportland.com/2012/01/05/lonchera-brother-express-mexican/\" target=\"_blank\">More Info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579704,
+                    45.463715,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Diamond Thai",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7144/6740172047_a6b6b6ee9e_d.jpg\" style=\"width:245px\"><br>Thai cuisine<br>Open daily<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.579498,
+                    45.463997,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Exlectic Eatery",
+                "Description": "<div dir=\"ltr\"></div><img src=\"http://farm8.staticflickr.com/7210/6897297137_ec91b62018_d.jpg\" style=\"width:245px\"><br>BBQ pork, beef and more<br>Open Tues-Sat lunch and dinner<br><a href=\"http://www.foodcartsportland.com/2012/02/18/eclectic-eatery-bbq/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653687,
+                    45.467308,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Taqueria Urapan",
+                "Description": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653503,
+                    45.467278,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Okie Rogie",
+                "Description": "<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653374,
+                    45.467468,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Chowdah",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7046/6779892320_bb3a971e89_d.jpg\" style=\"width:245px\"><br>New England Chowdah and sandwiches<br>Open Tues-Sat<br><a href=\"http://www.foodcartsportland.com/2012/02/24/chowdah/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.653168,
+                    45.4673,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Brisket's",
+                "Description": "<img src=\"http://farm7.static.flickr.com/6224/6256650564_4ca0b6f190_d.jpg\" style=\"width:245px\"><br>Brisket sandwiches and more<br>Open daily for lunch<br><a href=\"http://www.foodcartsportland.com/2011/10/18/briskets/\" target=\"_blank\">More info</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69017,
+                    45.533829,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "New Taste of India",
+                "Description": "<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680618,
+                    45.521111,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Noodle House",
+                "Description": "<img src=\"http://farm6.static.flickr.com/5078/5887880898_ac769ec759_d.jpg\" style=\"width:245px\">"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680687,
+                    45.521133,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Saffron Indian",
+                "Description": "<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680855,
+                    45.521172,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Portland BBQ Co",
+                "Description": "<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.680969,
+                    45.521202,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grilled Cheese Grill Downtown",
+                "Description": "<div dir=\"ltr\"></div><img src=\"http://farm6.staticflickr.com/5118/7045399677_e91acc0660_d.jpg\" style=\"width:245px\">"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.681473,
+                    45.521095,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Velas Cart",
+                "Description": "<img src=\"http://farm8.staticflickr.com/7017/6739975231_7288a41541_d.jpg\" style=\"width:245px\"><br>Mexican<br>Open daily and weekends at Kruger Farms<br><a href=\"http://www.foodcartsportland.com/2012/01/23/velas-cart/\" target=\"_blank\">More Details</a><br><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.742508,
+                    45.587765,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rose City Food Park",
+                "Description": "Pod in NE Portland<br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.609505,
+                    45.540817,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Fire and Knives",
+                "Description": "<img src=\"http://farm9.staticflickr.com/8189/8092510263_c579c88136_d.jpg\" style=\"width:245px\"><br>Breakfast and lunch options.<br><a href=\"http://www.foodcartsportland.com/2012/10/16/fire-and-knives/\" target=\"_blank\">More Details</a><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.695267,
+                    45.562645,
+                    0.0
+                ]
+            }
+        }
+    ]
+}
