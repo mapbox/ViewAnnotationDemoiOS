@@ -15,7 +15,7 @@ class ViewController: UIViewController, MGLMapViewDelegate {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        map = MGLMapView(frame: view.bounds, styleURL: MGLStyle.darkStyleURLWithVersion(MGLStyleDefaultVersion))
+        map = MGLMapView(frame: view.bounds, styleURL: MGLStyle.darkStyleURLWithVersion(9))
         if let map = map {
             map.setCenterCoordinate(centerCoordinate, zoomLevel: 12, animated: false)
             map.autoresizingMask = [.FlexibleWidth, .FlexibleHeight]
